@@ -1,0 +1,15 @@
+title: All Day DevOps Community 
+email: webmin@addo.community
+description: >- # this means to ignore newlines until "baseurl:"
+  Community presence for the awesome All Day DevOps virtual conference
+  Look here for more content, meetups and ways to share 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
